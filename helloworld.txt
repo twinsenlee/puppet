@@ -1,1 +1,10 @@
-this is my code
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "My first PHP script!";
+?>
+
+</body>
+</html> 
